@@ -34,7 +34,7 @@
 <section class="home" id="home">
 
     <div class="image">
-        <img src="./images/icons/home-img.svg" alt="">
+        <img src="./images/icons/home-img.svg" alt="home">
     </div>
 
     <div class="content">
